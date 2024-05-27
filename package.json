@@ -1,0 +1,17 @@
+{
+  "name": "xcoach-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemod server.js"
+  },
+  "author": "Sam Britt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemod": "^3.0.6"
+  }
+}
